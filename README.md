@@ -1,6 +1,7 @@
 # llmm-DAW
 # ***Recopilación de ejercicios 1 DAW***
 
+
 **ejercicio 1**
 <!DOCTYPE html>
 <html>
@@ -12,6 +13,7 @@
         <p>El conjunto blanco en los últimos partidos de esta temporada no ha demostrado aún el nivel, ni la consistencia goleadora que se esperaba</p>
     </body>
 </html>
+
 
 **ejercicio 2**
 <?xml version="1.0" encoding="UTF-8"?>
@@ -29,6 +31,8 @@
     <year>2021</year>
   </book>
 </library>
+
+
 
 **ejercicio 3**
 El formato de archivo SVG es una herramienta que se utiliza habitualmente para mostrar gráficos, diagramas e ilustraciones bidimensionales en los sitios web. Algunos ejemplos son:
@@ -48,6 +52,8 @@ El formato de archivo SVG es una herramienta que se utiliza habitualmente para m
 <svg width="100" height="100">
   <polygon points="50,15 100,100 0,100" fill="green" />
 </svg>
+
+
 
 **ejercicio 4**
 Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple.
