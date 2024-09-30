@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca> 
+  <book category="novela">
+    <title lang="en">Cien años de soledad </title>
+    <author>Gabriel García Márquez</author>
+    <year>1967</year>
+  </book>
+
+  <book category="novela">
+    <title lang="en">Hamnet </title>
+    <author>Maggie O'Farrell</author>
+    <year>2021</year>
+  </book>
+</Biblioteca>
