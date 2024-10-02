@@ -6,7 +6,7 @@ ejercicios | Tema1
 [Ejercicio2](Tema1/act2lm.xml)|  Un documento xml que incluya información sobre un par de libros de una biblioteca.
 [Ejercicio3](Tema1/svd.html)| ¿Qué es SVG? algunos tipos
 [Ejercicio4](Tema1/act4lm.html)| ¿que es un markdown?
-[Ejercicio5](Tema1/act4lm.html)|IMAGEN RANDOM 
+[Ejercicio5](IMG/capi.jpg)|IMAGEN RANDOM 
 #
 ejercicios | Tema2
 ----------|------------
