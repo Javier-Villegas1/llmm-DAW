@@ -14,3 +14,8 @@ ejercicios | Tema2
 [Ejercicio2](Tema1/act2lm2.html)|  actividad propuesta (moodle).
 [Ejercicio3](Tema1/act3lm2.html)| actividad propuesta (moodle).
 [Ejercicio4](Tema1/act4lm2.html)| actividad propuesta (moodle).
+[Ejercicio5](Tema1/act5lm2.html)|  actividad propuesta (moodle).
+[Ejercicio6](Tema1/act6lm2.html)|  actividad propuesta (moodle).
+[Ejercicio7](Tema1/act7lm2.html)|  actividad propuesta (moodle).
+[Ejercicio8](Tema1/act8lm2.html)|  actividad propuesta (moodle).
+
