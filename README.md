@@ -7,7 +7,7 @@ ejercicios | Tema1
 [Ejercicio3](Tema1/svd.html)| ¿Qué es SVG? algunos tipos
 [Ejercicio4](Tema1/act4lm.html)| ¿que es un markdown?
 [Ejercicio5](IMG/capi.jpg)|IMAGEN RANDOM 
-----------|------------
+----------|ejercicios propuestos 1
 [Ejercicio1](Tema1/act1lm2.html)|  actividad propuesta (moodle).
 [Ejercicio2](Tema1/act2lm2.html)|  actividad propuesta (moodle).
 [Ejercicio3](Tema1/act3lm2.html)| actividad propuesta (moodle).
