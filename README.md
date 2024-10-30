@@ -16,7 +16,7 @@ ejercicios | Tema1
 [Ejercicio6](Tema1/act6lm2.html)|  actividad propuesta (moodle).
 [Ejercicio7](Tema1/act7lm2.html)|  actividad propuesta (moodle).
 [Ejercicio8](Tema1/ejercicio8)|  actividad propuesta (moodle).
-[Ejercicio8](Tema1/act10lm2.html)|  actividad propuesta (moodle).
+[Ejercicio10](Tema1/act10lm2.html)|  actividad propuesta (moodle).
 #
 ejercicios | Tema2
 ----------|------------
