@@ -24,7 +24,7 @@ ejercicios | Tema1
 [Ejercicio15](Tema1/act15lm2.html)|  actividad propuesta (moodle).
 [Ejercicio16](Tema1/act16lm2.html)|  actividad propuesta (moodle).
 #
-ejercicios | Tema2
+proyecto | Página web
 ----------|------------
-
+[Proyecto 1](https://javier-villegas1.github.io/JaviWeb.github.io/index.html)|  Página web.
 
