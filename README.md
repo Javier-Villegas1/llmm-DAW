@@ -23,6 +23,19 @@ ejercicios | Tema1
 [Ejercicio14](Tema1/act14lm2.html)|  actividad propuesta (moodle).
 [Ejercicio15](Tema1/act15lm2.html)|  actividad propuesta (moodle).
 [Ejercicio16](Tema1/act16lm2.html)|  actividad propuesta (moodle).
+[Ejercicio17](Tema1/ejercicio17)|  actividad propuesta (moodle).
+[Ejercicio18](Tema1/ejercicio18)|  actividad propuesta (moodle).
+[Ejercicio19](Tema1/ejercicio19)|  actividad propuesta (moodle).
+[Ejercicio20](Tema1/ejercicio20)|  actividad propuesta (moodle).
+[Ejercicio21](Tema1/ejercicio21)|  actividad propuesta (moodle).
+[Ejercicio22](Tema1/ejercicio22)|  actividad propuesta (moodle).
+[Ejercicio23](Tema1/ejercicio23)|  actividad propuesta (moodle).
+[Ejercicio24](Tema1/act24lm2.html)|  actividad propuesta (moodle).
+[Ejercicio25](Tema1/act25lm2.html)|  actividad propuesta (moodle).
+[Ejercicio26](Tema1/ejercicio26)|  actividad propuesta (moodle).
+[Ejercicio27](Tema1/ejercicio27)|  actividad propuesta (moodle).
+[Ejercicio28](Tema1/ejercicio28)|  actividad propuesta (moodle).
+[Ejercicio29](Tema1/ejercicio29)|  actividad propuesta (moodle).
 #
 proyecto | Página web
 ----------|------------
