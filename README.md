@@ -41,3 +41,6 @@ proyecto | Página web
 ----------|------------
 [Proyecto 1](https://javier-villegas1.github.io/JaviWeb.github.io/index.html)|  Página web.
 
+ejercicios | Tema1
+----------|------------
+
