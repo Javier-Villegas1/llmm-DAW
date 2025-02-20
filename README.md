@@ -48,7 +48,18 @@ ejercicios | Tema2 CSS
 [Ejercicio3](Tema1/act1lm.html)|  actividad propuesta CSS 3.
 [Ejercicio4](Tema1/act1lm.html)|  actividad propuesta CSS 4.
 [Ejercicio5](Tema1/act1lm.html)|  actividad propuesta CSS 5.
-
+[Ejercicio6](Tema1/act1lm.html)|  actividad propuesta CSS 6.
+[Ejercicio7](Tema1/act1lm.html)|  actividad propuesta CSS 7.
+[Ejercicio8](Tema1/act1lm.html)|  actividad propuesta CSS 8.
+[Ejercicio9](Tema1/act1lm.html)|  actividad propuesta CSS 9.
+[Ejercicio10](Tema1/act1lm.html)|  actividad propuesta CSS 10.
+[Ejercicio11](Tema1/act1lm.html)|  actividad propuesta CSS 11.
+[Ejercicio12](Tema1/act1lm.html)|  actividad propuesta CSS 12.
+#
+proyecto | Página bootstrap
+----------|------------
+[Proyecto 1]()|  Página bootstrap.
+#
 
 
 
