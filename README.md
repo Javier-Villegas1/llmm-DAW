@@ -58,7 +58,7 @@ ejercicios | Tema2 CSS
 #
 proyecto | Página bootstrap
 ----------|------------
-[Proyecto 1]()|  Página bootstrap.
+[Proyecto 2]()|  Página bootstrap.
 #
 
 
