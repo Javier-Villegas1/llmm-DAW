@@ -43,7 +43,6 @@ proyecto | Página web
 #
 ejercicios | Tema2 CSS
 ----------|------------
-
 [Ejercicio1](Tema1/act1lm.html)|  actividad propuesta CSS 1.
 [Ejercicio2](Tema1/act1lm.html)|  actividad propuesta CSS 2.
 [Ejercicio3](Tema1/act1lm.html)|  actividad propuesta CSS 3.
