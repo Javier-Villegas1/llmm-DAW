@@ -44,6 +44,12 @@ proyecto | Página web
 ejercicios | Tema2 CSS
 ----------|------------
 
-[Ejercicio1](Tema1/act1lm.html)|  Página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección.
+[Ejercicio1](Tema1/act1lm.html)|  actividad propuesta CSS 1
+[Ejercicio2](Tema1/act1lm.html)|  actividad propuesta CSS 2
+[Ejercicio3](Tema1/act1lm.html)|  actividad propuesta CSS 3
+[Ejercicio4](Tema1/act1lm.html)|  actividad propuesta CSS 4
+[Ejercicio5](Tema1/act1lm.html)|  actividad propuesta CSS 5
+
+
 
 
