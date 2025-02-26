@@ -62,7 +62,7 @@ proyecto | Página bootstrap
 #
 proyecto | Juego Luces
 ----------|------------
-[Proyecto 3]()|  Juego Luces.
+[Proyecto 3](https://github.com/Javier-Villegas1/JuegoLuces)|  Juego Luces.
 #
 
 
