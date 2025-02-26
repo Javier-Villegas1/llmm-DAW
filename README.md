@@ -60,6 +60,10 @@ proyecto | Página bootstrap
 ----------|------------
 [Proyecto 2](https://javier-villegas1.github.io/mi_sitio_web/)|  Página bootstrap.
 #
+proyecto | Juego Luces
+----------|------------
+[Proyecto 3](https://javier-villegas1.github.io/mi_sitio_web/)|  Página bootstrap.
+#
 
 
 
