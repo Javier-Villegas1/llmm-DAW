@@ -59,7 +59,7 @@ ejercicios | Tema2 CSS
 proyecto | Página bootstrap
 ----------|------------
 [Proyecto 2](https://javier-villegas1.github.io/mi_sitio_web/)|  Página bootstrap.
-[Proyecto 2](https://github.com/Javier-Villegas1/mi_sitio_web/tree/pagina1)|  Página bootstrap.
+[Proyecto 2](https://github.com/Javier-Villegas1/mi_sitio_web/tree/pagina1)|  Página bootstrap, Código.
 #
 proyecto | Juego Luces
 ----------|------------
