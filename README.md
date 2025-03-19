@@ -66,7 +66,7 @@ proyecto | Juego Luces
 [Proyecto 3](https://github.com/Javier-Villegas1/JuegoLuces)|  Juego Luces.
 #
 ----------| <u>**Ejercicios propuestos javaScript**</u>
-[Ejercicio1](Tema1/act1lm2.html)|  actividad propuesta (moodle).
+[Ejercicio1](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercicio1)|  actividad propuesta (moodle).
 [Ejercicio2](Tema1/act2lm2.html)|  actividad propuesta (moodle).
 [Ejercicio3](Tema1/act3lm2.html)| actividad propuesta (moodle).
 
