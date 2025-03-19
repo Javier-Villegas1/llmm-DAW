@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imágenes de Coches y Spiderman</title>
+    <link id="styleSheet" rel="stylesheet" href="style1.css">
+    <script>
+        // Función para cambiar la imagen seleccionada
+        function cambiaImagen() {
+            var imagenSeleccionada = document.getElementById("seleccionImagen").value;
+            document.getElementById("miImagen").src = imagenSeleccionada;
+        }
+
+        // Función para cambiar el estilo
+        function cambiaEstilo(hojaEstilo) {
+            document.getElementById("styleSheet").href = hojaEstilo;
+        }
+    </script>
+</head>
+<body>
+    <h2>Imágenes de coches</h2>
+    <p>Selecciona una imagen de coche:</p>
+
+    <!-- Dropdown para seleccionar las imágenes de coches -->
+    <select id="seleccionImagen" onchange="cambiaImagen()">
+        <option value="imagenes/coche1.jpg">Coche 1</option>
+        <option value="imagenes/coche2.jpg">Coche 2</option>
+        <option value="imagenes/coche3.jpg">Coche 3</option>
+        <option value="imagenes/coche4.jpg">Coche 4</option>
+        <option value="imagenes/coche5.jpg">Coche 5</option>
+        <option value="imagenes/coche6.jpg">Coche 6</option>
+    </select>
+
+    <div id="imagenCoche">
+        <img id="miImagen" src="imagenes/coche1.jpg" alt="Imagen de Coche" style="height:300px"><br>
+    </div>
+
+    <h2>Imágenes de Spiderman</h2>
+    <p>Selecciona una imagen de Spiderman:</p>
+
+    <!-- Dropdown para seleccionar las imágenes de Spiderman -->
+    <select id="seleccionImagen" onchange="cambiaImagen()">
+        <option value="imagenes/spiderman1.gif">Spiderman 1</option>
+        <option value="imagenes/spiderman2.jpg">Spiderman 2</option>
+        <option value="imagenes/spiderman3.jpg">Spiderman 3</option>
+        <option value="imagenes/Spiderman4.jpg">Spiderman 4</option>
+        <option value="imagenes/spiderman5.jpg">Spiderman 5</option>
+    </select>
+
+    <div id="imagenSpiderman">
+        <img id="miImagen" src="imagenes/spiderman1.gif" alt="Imagen de Spiderman" style="height:300px"><br>
+    </div>
+
+    <h2>Cambiar Estilo</h2>
+    <button onclick="cambiaEstilo('style1.css')">Estilo 1</button>
+    <button onclick="cambiaEstilo('style2.css')">Estilo 2</button>
+</body>
+</html>
+
