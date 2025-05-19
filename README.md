@@ -70,5 +70,11 @@ ejercicios | Tema3 JavaScript
 [Ejercicio1](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercicio1)|  actividad propuesta (moodle).
 [Ejercicio2](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercicio2)|  actividad propuesta (moodle).
 [Ejercicio3](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercico3)| actividad propuesta (moodle).
+#
+ejercicios | Tema4 XML+XML-DOM+Ajax+Json+RSS_exercises
+----------|------------
+[Ejercicio1](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercicio1)|  actividad propuesta (moodle).
+[Ejercicio2](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercicio2)|  actividad propuesta (moodle).
+[Ejercicio3](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercico3)| actividad propuesta (moodle).
 
 
