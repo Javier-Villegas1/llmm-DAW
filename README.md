@@ -84,6 +84,15 @@ ejercicios | Tema4 XML+XML-DOM+Ajax+Json+RSS_exercises
 [Ejercicio2](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-DOM/ejercicio2.html)|  actividad propuesta XML-DOM (moodle).
 [Ejercicio3](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-DOM/ejercicio3.html)| actividad propuesta XML-DOM (moodle).
 ----------|------------
-
+[Ejercicio1-A](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/Ex1a.xml)|  actividad propuesta XML (moodle).
+[Ejercicio1-B](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/Ex1b.xml)|  actividad propuesta XML (moodle).
+[Ejercicio1-C](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/Ex1c.xml)|  actividad propuesta XML (moodle).
+[Ejercicio2](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/Ex2.xml)|  actividad propuesta XML (moodle).
+[Ejercicio3](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/Ex3-corrected.xml)| actividad propuesta XML (moodle).
+[Ejercicio4](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/ex4.xml)| actividad propuesta XML (moodle).
+[Ejercicio5-A](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/Ex5a.xml)| actividad propuesta XML (moodle).
+[Ejercicio5-B](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/Ex5b.xml)| actividad propuesta XML (moodle).
+[Ejercicio6](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/Ex6.xml)| actividad propuesta XML (moodle).
+[Ejercicio7](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-Exercises/ex7.txt)| actividad propuesta XML (moodle).
 
 
