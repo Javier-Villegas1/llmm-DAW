@@ -67,14 +67,23 @@ proyecto | Juego Luces
 #
 ejercicios | Tema3 JavaScript
 ----------|------------
-[Ejercicio1](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercicio1)|  actividad propuesta (moodle).
+[Ejercicio1](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/AJAX-EXERCISES/ejercicio1.html)|  actividad propuesta (moodle).
 [Ejercicio2](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercicio2)|  actividad propuesta (moodle).
 [Ejercicio3](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercico3)| actividad propuesta (moodle).
 #
 ejercicios | Tema4 XML+XML-DOM+Ajax+Json+RSS_exercises
 ----------|------------
-[Ejercicio1](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercicio1)|  actividad propuesta (moodle).
-[Ejercicio2](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercicio2)|  actividad propuesta (moodle).
-[Ejercicio3](https://github.com/Javier-Villegas1/llmm-DAW/tree/main/JavaScript/ejercico3)| actividad propuesta (moodle).
+[Ejercicio1](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/AJAX-EXERCISES/ejercicio1.html)|  actividad propuesta AJAX (moodle).
+[Ejercicio2](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/AJAX-EXERCISES/ejercicio2.html)|  actividad propuesta AJAX (moodle).
+[Ejercicio3](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/AJAX-EXERCISES/ejercicio3.html)| actividad propuesta AJAX (moodle).
+[Ejercicio4](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/AJAX-EXERCISES/ejercicio4.html)| actividad propuesta AJAX (moodle).
+[Ejercicio5](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/AJAX-EXERCISES/ejercicio5.html)| actividad propuesta AJAX (moodle).
+[Ejercicio6](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/AJAX-EXERCISES/ejercicio3.html)| actividad propuesta AJAX (moodle).
+----------|------------
+[Ejercicio1](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-DOM/ejercicio1.html)|  actividad propuesta XML-DOM (moodle).
+[Ejercicio2](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-DOM/ejercicio2.html)|  actividad propuesta XML-DOM (moodle).
+[Ejercicio3](https://github.com/Javier-Villegas1/llmm-DAW/blob/main/Tema4/XML-DOM/ejercicio3.html)| actividad propuesta XML-DOM (moodle).
+----------|------------
+
 
 
